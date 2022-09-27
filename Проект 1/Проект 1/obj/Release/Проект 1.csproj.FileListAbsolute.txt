@@ -1,0 +1,15 @@
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\bin\Release\Проект 1.exe.config
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\bin\Release\Проект 1.exe
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\bin\Release\Проект 1.pdb
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\bin\Release\lkt-US\Проект 1.resources.dll
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект 1.csproj.AssemblyReference.cache
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Interop.WMPLib.dll
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект 1.csproj.ResolveComReference.cache
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект_1.Form1.resources
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект_1.Properties.Resources.resources
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект_1.Form1.lkt-US.resources
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект 1.csproj.GenerateResource.cache
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект 1.csproj.CoreCompileInputs.cache
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\lkt-US\Проект 1.resources.dll
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект 1.exe
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Release\Проект 1.pdb

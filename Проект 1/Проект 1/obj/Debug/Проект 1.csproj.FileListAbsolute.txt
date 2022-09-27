@@ -1,0 +1,30 @@
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\bin\Debug\Проект 1.exe.config
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\bin\Debug\Проект 1.exe
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\bin\Debug\Проект 1.pdb
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект 1.csproj.AssemblyReference.cache
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект_1.Form1.resources
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект_1.Properties.Resources.resources
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект 1.csproj.GenerateResource.cache
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект 1.csproj.CoreCompileInputs.cache
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект 1.exe
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект 1.pdb
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект 1.csproj.ResolveComReference.cache
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\bin\Debug\lkt-US\Проект 1.resources.dll
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\Проект_1.Form1.lkt-US.resources
+C:\Users\Alexsandr\Desktop\Проект 1\Проект 1\Проект 1\obj\Debug\lkt-US\Проект 1.resources.dll
+D:\PrGit\Будильник\Проект 1\Проект 1\bin\Debug\Проект 1.exe.config
+D:\PrGit\Будильник\Проект 1\Проект 1\bin\Debug\Проект 1.exe
+D:\PrGit\Будильник\Проект 1\Проект 1\bin\Debug\Проект 1.pdb
+D:\PrGit\Будильник\Проект 1\Проект 1\bin\Debug\lkt-US\Проект 1.resources.dll
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект 1.csproj.AssemblyReference.cache
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Interop.WMPLib.dll
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект 1.csproj.ResolveComReference.cache
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект_1.Form1.resources
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект_1.Properties.Resources.resources
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект_1.Form1.lkt-US.resources
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект 1.csproj.GenerateResource.cache
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект 1.csproj.CoreCompileInputs.cache
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\lkt-US\Проект 1.resources.dll
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект 1.exe
+D:\PrGit\Будильник\Проект 1\Проект 1\obj\Debug\Проект 1.pdb
